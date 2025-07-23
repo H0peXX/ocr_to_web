@@ -29,9 +29,9 @@ def get_prompt(prompt_name):
 
 # --- CONFIG ---
 #แก้filename
-filename = "/Users/kulisara/SuperNote_maomo/backend/ocr/note_ink.png"  # รองรับ .pdf, .png, .jpg, .jpeg
+filename = "C:\\Users\\Maya\\Documents\\ThaiLifeInsurance-Projects\\OCR-Testing\\ocr_to_web\\ocr\\note_ink.png"  # รองรับ .pdf, .png, .jpg, .jpeg
 task_type = "default"
-api_key = "sk-kq19zHOQXDmynIgDAvgOAYNBXaprw3xWV5jAbEPmVlwplkvp"  # ใส่ Typhoon API
+api_key = "sk-JNfGWhdMy8LrmZAIRjG9Ff6dSxudOF6Sv5k4IHrnnbv2tKdM"  # ใส่ Typhoon API
 max_tokens_summary_chunk = 500
 
 # --- INIT Typhoon Client ---
